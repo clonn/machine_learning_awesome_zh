@@ -5,7 +5,8 @@
  * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
  * [当机器学习遇上复杂网络：解析微信朋友圈 Lookalike 算法](http://mp.weixin.qq.com/s/EV-25t2lWT2JJMLhXsz4zQ)
  * [5 Python libraries to lighten your machine learning load ](http://www.infoworld.com/article/3171654/artificial-intelligence/5-python-libraries-to-lighten-your-machine-learning-load.html)
- * 
+ * [有哪些传统数据科学技术被大众媒体称为人工智能（AI）？](http://mp.weixin.qq.com/s?__biz=MzA5NzkxMzg1Nw==&mid=2653162040&idx=1&sn=068ed926b14883b522b8541e7dce800e&chksm=8b493756bc3ebe4040d95b304c8a0161ecc6749202fa58116857070ac9ed3ec2af85fdff2e50#rd)
+
 
 ## 2017/2/20
 
