@@ -1,5 +1,13 @@
 # machine_learning
 
+## 2017/2/22
+
+ * [產品訂購業務省力的AI，庫存減少](http://mainichi.jp/articles/20170222/k00/00m/020/139000c?1487727814377=1)
+ * [Image-to-Image Demo, Interactive Image Translation with pix2pix-tensorflow](http://affinelayer.com/pixsrv/?1487732894855=1)
+ * [基于TensorFlow让机器生成赵雷曲风的歌词](http://36kr.com/p/5064512.html?ktm_source=feed)
+ * [Deep Learning on Databricks](https://databricks.com/blog/2016/12/21/deep-learning-on-databricks.html)
+ * [New blog from AWS](https://aws.amazon.com/tw/blogs/ai/welcome-to-the-new-aws-ai-blog/)
+
 ## 2017/2/21
 
  * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
