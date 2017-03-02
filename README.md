@@ -1,5 +1,14 @@
 # machine_learning
 
+## 2017/03/01
+
+- [How to Use Tensorflow for Time Series (Live) - YouTube](https://www.youtube.com/watch?v=hhJIztWR_vo&feature=em-lss)
+- [Deep Voice: Real-Time Neural Text-to-Speech for Production - Baidu Research](http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/)
+- [Understanding, generalisation, and transfer learning in deep neural networks – the morning paper](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/amp/)
+- [支援 Python 與 R 語言！Facebook 開源大規模預測工具「Prophet」 – INSIDE 硬塞的網路趨勢觀察](https://www.inside.com.tw/2017/02/27/facebook-prophet-forecasting-at-scale?utm_source=rss&utm_medium=rss&utm_campaign=facebook-prophet-forecasting-at-scale)
+- [Supervised Sequence Labelling with Recurrent Neural Networks | Alex Graves | Springer](http://www.springer.com/la/book/9783642247965)
+
+
 ## 2017/2/22
 
  * [產品訂購業務省力的AI，庫存減少](http://mainichi.jp/articles/20170222/k00/00m/020/139000c?1487727814377=1)
