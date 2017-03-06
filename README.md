@@ -1,5 +1,14 @@
 # machine_learning
 
+## 2017/03/06
+
+- [This Machine Turns Trump Tweets into Planned Parenthood Donations – Medium](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.f7rmj3h2o)
+- [This porn bot uses Microsoft AI to watch and interpret Pornhub... nonstop](https://thenextweb.com/shareables/2017/03/03/porn-bot-microsoft-ai-pornhub/#.tnw_LNLBndgW#.tnw_b6CtoNaE#.tnw_isjnGK3u)
+- [sugyan/tf-dcgan: DCGAN implementation by TensorFlow](https://github.com/sugyan/tf-dcgan)
+- [使用Amazon Machine Learning 創建智能應用程式](https://www.slideshare.net/AmazonWebServices/amazon-machine-learning-72725278)
+- [MycroftAI/hardware-mycroft-mark-1: Open-sourcing our mechanical, electrical and industrial designs](https://github.com/MycroftAI/hardware-mycroft-mark-1)
+- [What is Mycroft? | Core](https://docs.mycroft.ai/)
+
 ## 2017/03/01
 
 - [How to Use Tensorflow for Time Series (Live) - YouTube](https://www.youtube.com/watch?v=hhJIztWR_vo&feature=em-lss)
