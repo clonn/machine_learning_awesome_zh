@@ -1,5 +1,17 @@
 # machine_learning
 
+## 2017/03/16
+
+- [他們創了一個「演算法商店」，讓 AI 不再高不可攀！ – INSIDE 硬塞的網路趨勢觀察](https://www.inside.com.tw/2017/03/14/algorithmia-open-marketplace-for-algorithms)
+- [Deep Learning Book - Community on Commonlounge](https://www.commonlounge.com/community/e531572c319542e8bc1a28658ef85cb1)
+- [kazunori279/TensorFlow-Intro: An easy TensorFlow introduction for all ML newbies.](https://github.com/kazunori279/TensorFlow-Intro)
+- [DeepMind 幫助 Google 節省大量電費之後，現計劃利用 AI 平衡英國電力供應 | TechNews 科技新報](http://technews.tw/2017/03/14/deepmind-ai-help-national-grid-balance-electric-net/)
+- [bergstra12a.dvi](http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a)
+- [Lesson 7 Notes - Deep Learning Course Wiki](http://wiki.fast.ai/index.php/Lesson_7_Notes)
+- [20161121 MLDM Monday | 利用增強學習訓練賽車AI - YouTube](https://www.youtube.com/watch?v=l_e90qOuv2Q)
+- [如何面試資料科學家? (How to Interview Data Scientist?) – Data Science Canvas – Medium](https://medium.com/data-science-canvas/how-to-interview-data-scientist-967a765456b1#.8mrewlg9y)
+
+
 ## 2017/03/06
 
 - [This Machine Turns Trump Tweets into Planned Parenthood Donations – Medium](https://medium.com/@maxbraun/this-machine-turns-trump-tweets-into-planned-parenthood-donations-4ece8301e722#.f7rmj3h2o)
